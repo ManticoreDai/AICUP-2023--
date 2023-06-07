@@ -1,3 +1,5 @@
+我們是TEAM_3481，Private Leaderboard的排名為第12名，分數為0.617252
+
 # 執行環境
 * 執行檔案為 "full_pipeline_報告繳交程式碼.ipynb"
 * 另需要data與checkpoints兩個資料夾，但檔案太大無法上傳gitgub，請至以下連結下載
