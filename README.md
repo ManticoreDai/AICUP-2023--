@@ -2,6 +2,11 @@
 * 使用colab-pro python3
 * GPU使用A100並開啟大量RAM模式
 
+# 成果
+* Part-1 Document Retrieval 的 recall 約0.93
+* Part-2 Sentence Retrieval 的 recall@5 約0.80，recall@100 約0.87
+* 最終的strict accuracy約為0.62
+
 # 實作方法
 * 修改官方提供的baseline，https://github.com/IKMLab/NCKU-AICUP2023-baseline
 * model改用ckiplab/bert-base-chinese
