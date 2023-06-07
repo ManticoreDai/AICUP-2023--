@@ -1,4 +1,5 @@
 # 執行環境
+* 執行檔案為 "full_pipeline_報告繳交程式碼.ipynb"
 * 使用colab-pro python3
 * GPU使用A100並開啟大量RAM模式
 
