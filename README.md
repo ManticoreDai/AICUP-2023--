@@ -2,8 +2,6 @@
 
 # 執行環境
 * 執行檔案為 "full_pipeline_報告繳交程式碼.ipynb"
-* 另需要data與checkpoints兩個資料夾，但檔案太大無法上傳gitgub，請至以下連結下載
-  * https://drive.google.com/drive/folders/1pUT-dENhLlaNkCghkO_OfyVSGtDui5YN?usp=sharing
 * 使用colab-pro python3
 * GPU使用A100並開啟大量RAM模式
 
